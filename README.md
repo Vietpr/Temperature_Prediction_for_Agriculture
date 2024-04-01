@@ -7,8 +7,8 @@ The agricultural sector faces significant challenges due to the variability of w
 # Objective
 This project focuses on developing temperature prediction models using machine learning algorithms to empower farmers in making informed decisions regarding planting timing, crop selection, and resource allocation.
 
-#Methodology
+# Methodology
 Three algorithms - Linear Regression, SVR, and XGboost - are employed, with input variables selected based on their moderate to strong association with temperature.
 
-#Significance
+# Significance
 Accurate temperature forecasts play a fundamental role in optimizing resource management, minimizing risks, and promoting sustainable agricultural practices. This project aims to contribute towards addressing the current challenges facing the agricultural sector.
