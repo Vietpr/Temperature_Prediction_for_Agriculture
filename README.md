@@ -1,4 +1,4 @@
-# Temperature Prediction for Agriculture using Machine Learning
+# Temperature Prediction for Agriculture Using Machine Learning
 
 # Introduction
 
