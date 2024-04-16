@@ -17,4 +17,4 @@ Accurate temperature forecasts play a fundamental role in optimizing resource ma
 This research builds upon existing studies exploring the intersection between temperature forecasting and agriculture, incorporating advancements in machine learning techniques and decision support systems tailored for temperature-sensitive farming methods.
 
 
-👉 Copyright belongs to Pham Van Viet 👈
+👉 𝐂𝐨𝐩𝐲𝐫𝐢𝐠𝐡𝐭 𝐛𝐞𝐥𝐨𝐧𝐠𝐬 𝐭𝐨 𝐏𝐡𝐚𝐦 𝐕𝐚𝐧 𝐕𝐢𝐞𝐭 👈
